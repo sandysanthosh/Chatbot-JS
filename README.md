@@ -1,11 +1,20 @@
+### CHATBOT using Javascript:
 
+
+![image](https://user-images.githubusercontent.com/11579239/83252191-706dda00-a1c8-11ea-8d05-78c301a971c7.png)
+
+
+
+### CHATBOT using Java:
+
+https://github.com/sandysanthosh/Chatbot
 
 https://howtodoinjava.com/ai/java-aiml-chatbot-example/
 
 ## AIML: 
-   ARITIFICAL INTELLIGENCE MACHINE LANGUAGE
-   xml based markup language human interface
-    aliebot what is chat-bot
+         ARITIFICAL INTELLIGENCE MACHINE LANGUAGE
+         xml based markup language human interface
+          aliebot what is chat-bot
 
 A.L.I.C.E
 
