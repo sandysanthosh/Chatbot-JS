@@ -2,7 +2,7 @@
 
 Live Application Demo:
 
-https://sandysanthosh.github.io/Chatbot-JAVA/
+https://sandysanthosh.github.io/Chatbot-JS/
 
 
 ![image](https://user-images.githubusercontent.com/11579239/83252191-706dda00-a1c8-11ea-8d05-78c301a971c7.png)
